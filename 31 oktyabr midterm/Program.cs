@@ -9,6 +9,8 @@ namespace _31_oktyabr_midterm
 {
     internal class Program
     {
+
+        // Task : Calculating given num Factorial
         static int Factorial(int x)
         {
             int output = 1;
